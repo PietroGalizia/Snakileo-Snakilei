@@ -23,7 +23,7 @@ Snakileo Snakilei is an educational and engaging video game that combines the cl
 Copyright
 =========
 
-    Snakeleev
+    Snakileo-Snakilei
     Copyright (C) 2024 Pietro Galizia
 
     This program is free software: you can redistribute it and/or modify

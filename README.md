@@ -24,7 +24,7 @@ Snakileo Snakilei is an educational and engaging video game that combines the cl
 License
 =========
 
-**Snakeleev** is licensed under the **GNU Affero General Public License v3.0 (AGPL v3.0)**. 
+**Snakileo-Snakilei** is licensed under the **GNU Affero General Public License v3.0 (AGPL v3.0)**. 
 
 
 Copyright
